@@ -1,0 +1,12 @@
+Tratamento de problemas com Try catch, sendo possibel utilizar um getmensagem para 
+capturar e concatenar o erro no retorno
+
+trhow new Aritmeticexception
+
+Classes que extendem RuntimeException nao precisam verificação
+Classes que extendem Execption precisam ser assinadas (public void metodo() throw MinhaExcecao{
+.......
+}
+
+
+Exception captura com qualquer exceção E (e.getmessage)

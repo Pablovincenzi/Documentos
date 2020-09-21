@@ -1,0 +1,7 @@
+Utiliza implements e o Nome da classe que é interface
+Classe que utiliza ela, pode chamar seus metodos
+Pode utilizar uma referencia do tipo interface (public abstract interface Autenticave)
+Interfaces tem metodos simples e nao tem nada concreto
+
+Reutilzização de cdiogs pode utilizar a composicao
+Criar o metodo isntancioando a classe do codigo

@@ -1,0 +1,14 @@
+Herança e Polimorfismo
+
+Super. é utilizado chamar variavel ou metodos da lclasse mae
+Herda tudo da classe,mas os construtores não automaticamente
+Para chamar construtor padrao da classe mae, chamar 'super()'
+Para chamar construtor especifico, basta passar os parametros no public e tambem no super
+Reutilização de codigo, utilizado o Overrider, por exemplo um metodo.
+
+
+Classes e métodos Abstratos
+A classe funcionario e abstrac(termo geral, pois funcionario nao e concreto)
+Será criado apenas Funcionario 'nome variavel', como conceito, 
+Classes abstratas são maes, e para ser instanciadas devem possuir filhas(nao pode criar objetos dela)
+Alem de classes , existem metodos abstratos, mas os filhos precisam de implementação
